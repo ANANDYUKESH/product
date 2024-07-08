@@ -1,0 +1,59 @@
+body{
+    background-color: skyblue;
+}
+
+.full{
+    margin-left: 400px;
+    margin-top: 200px;
+   
+}
+.first{
+    display: flex;
+   
+}
+.second{
+    display :flex;
+}
+.pro1{
+    margin-right: 20px;
+    border: 2px solid whitesmoke;
+    background-color: antiquewhite;
+    border-radius: 8px;
+}
+.pro2{
+    margin-left: 20px;
+    border: 2px solid whitesmoke;
+    border-radius: 8px;
+    background-color: antiquewhite;
+}
+.pro3{
+    margin-right: 20px;
+    border: 2px solid whitesmoke;
+    border-radius: 8px;
+    background-color: antiquewhite;
+}
+.pro4{
+    margin-left: 20px;
+    border: 2px solid whitesmoke;
+    border-radius: 8px;
+    background-color: antiquewhite;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    border-radius: 8px;
+}
+
+h3{
+    padding-left: 60px;
+}
+h4{
+    padding-left: 90px;
+}
+button{
+    margin-left: 60px;
+    margin-bottom: 3px;
+    background-color: green;
+    color: aliceblue;
+}
